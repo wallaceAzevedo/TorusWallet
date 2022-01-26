@@ -9,8 +9,6 @@ istalar os pacotes
 
 yarn install
 
-yarn add @toruslabs/torus-embed
-
 iniciar o app
 ### `yarn start`
 
